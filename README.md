@@ -3,8 +3,9 @@
 (need a lot more work it was just for testing the library) 
 This is a simple Python-based application that generates a mosaic image from a base image using a collection of uploaded images. The mosaic is composed of small grayscale images arranged in such a way that they represent the base image when viewed from a distance.
 
+i used bunch of pictures taken by  the photograph " wafaa soltani " from her gallery named " 100 Hommes et une femme" , meaning 100 men and one women  , i used 120 pictures of men , and the base image is the women picture !
 
-
+![mosaic_output](https://github.com/user-attachments/assets/ba1611bb-8cfa-4e48-bc37-29f8c02b9dc7)
 
 ## Features
 - **Upload Images**: Select multiple images (JPEG, JPG, PNG) to use as tiles for the mosaic.
